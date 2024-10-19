@@ -5,7 +5,7 @@ import path from 'path';
 
 export default {
   name: 'المطور', // اسم الأمر
-  author: 'حسين يعقوبي', // مؤلف الأمر
+  author: 'رضوان لكفاتي', // مؤلف الأمر
   role: 'member', // الدور المطلوب لاستخدام الأمر
   description: 'يعرض معلومات عن مالك الأمر.', // وصف الأمر
   aliases:['مطور','المالك'],
@@ -24,11 +24,11 @@ export default {
       api.setMessageReaction('🚀', event.messageID, (err) => {}, true);
       // معلومات المالك
       const ownerInfo = {
-        name: 'حسين يعقوبي',
+        name: 'رضوان ',
         gender: 'ذكر',
-        age: '18',
-        height: '180',
-        facebookLink: 'https://www.facebook.com/profile.php?id=100093589771272',
+        age: '17',
+        height: 'قصير مع كري',
+        facebookLink: 'https://www.facebook.com/profile.php?id=100054949951477',
         nick: 'صاིئدّ اིلཻأرٰوٰ໑ٰاིح᪽',
       };
 
