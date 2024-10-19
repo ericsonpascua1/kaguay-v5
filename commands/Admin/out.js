@@ -8,7 +8,7 @@ export default {
     const permission = [`100054949951477`,
                          ''];
     if (!permission.includes(event.senderID)) {
-      return api.sendMessage("❌ | آسفة هذا خاص بحسين فقط", event.threadID, event.messageID);
+      return api.sendMessage("❌ | آسفة هذا خاص برضوان فقط", event.threadID, event.messageID);
     }
 
     // إرسال رسالة تطلب من المستخدم الرد بـ 'تم' للمغادرة
