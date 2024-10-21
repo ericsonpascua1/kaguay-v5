@@ -24,12 +24,12 @@ export default {
       api.setMessageReaction('🚀', event.messageID, (err) => {}, true);
       // معلومات المالك
       const ownerInfo = {
-        name: 'رضوان ',
-        gender: 'ذكر',
-        age: '17',
-        height: 'قصير مع كري',
-        facebookLink: 'https://www.facebook.com/profile.php?id=100054949951477',
-        nick: 'صاིئدّ اིلཻأرٰوٰ໑ٰاིح᪽',
+        name: 'ericson pascua',
+        gender: 'male',
+        age: '16',
+        height: 'ewan',
+        facebookLink: 'https://www.facebook.com/ericsonpascua6',
+        nick: 'jet',
       };
 
       const videoLink = 'https://drive.google.com/uc?export=download&id=1VU7B3OxTlTmGymay7l9McpCYKOPJy7m9'; // الرابط الخاص بالفيديو
